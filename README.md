@@ -1,1 +1,3 @@
 # BRD-Bayesian-Network-Analysis
+
+In this repository is the supplementary materials for, "Antimicrobial Susceptibility in Respiratory Pathogens and Farm and Animal Variables in Weaned California Dairy Heifers: Logistic Regression and Bayesian Network Analyses" (https://doi.org/10.3390/antibiotics13010050). Appendix A1 is a document outlining culture and sensitivity testing methods for pathogens included in the study and the original, unedited directed acyclic graphs produced. Appendix A2 is the html version of the R-markdown file for the Bayesian Network Analyses conducted. Table A1 is the summary level data the analyses are based on.
